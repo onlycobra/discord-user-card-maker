@@ -1,4 +1,4 @@
-<div align="center"><h1>Discord Bot | Profile Card Mkaer</h1>
+<div align="center"><h1>Discord Bot | Profile Card Maker</h1>
 <h3>By <a href="https://github.com/natrixdev">natrix</a><h3>
 </div>
 
